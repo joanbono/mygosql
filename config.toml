@@ -1,0 +1,7 @@
+# filename: config.toml
+[database]
+user = "root"
+password = "toor"
+server = "localhost"
+port = "3306"
+database = "information_schema"
